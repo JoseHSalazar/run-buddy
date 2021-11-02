@@ -12,3 +12,5 @@ https://josehsalazar.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Jose Salazar
+
+### ©️2019 Run Buddy, Inc
